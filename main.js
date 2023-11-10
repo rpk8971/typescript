@@ -35,3 +35,9 @@ multiType = true;
 //     return num1+num2
 // }
 // console.log(add(1,2))
+
+// to make the background transperent
+style: {
+              backgroundColor: "transparent", // Make the dialog background transparent
+              boxShadow: "none",
+            },
